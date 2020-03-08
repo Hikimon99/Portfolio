@@ -1,0 +1,38 @@
+﻿@model Kim_InHo_HW3.Models.WalkupOrder
+
+@{
+    ViewData["Title"] = "CheckoutWalkup";
+}
+
+<h1>Checkout Walkup</h1>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="WalkupTotals">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="CustomerName" class="control-label"></label>
+                <input asp-for="CustomerName" class="form-control" />
+                <span asp-validation-for="CustomerName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NumberOfSandwiches" class="control-label"></label>
+                <input asp-for="NumberOfSandwiches" class="form-control" />
+                <span asp-validation-for="NumberOfSandwiches" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NumberOfTacos" class="control-label"></label>
+                <input asp-for="NumberOfTacos" class="form-control" />
+                <span asp-validation-for="NumberOfTacos" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Start A New Order</a>
+</div>

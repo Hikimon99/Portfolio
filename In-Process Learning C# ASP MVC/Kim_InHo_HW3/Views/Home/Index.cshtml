@@ -1,0 +1,29 @@
+﻿@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Select an Order type</h1>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <div>
+            <form style="display:inline;" asp-action="CheckoutCatering">
+                <span asp-validation-summary="All" class="text-danger"></span>
+                <span class="form-group">
+                    <input style="display:inline;" type="submit" value="Catering" class="btn btn-primary" />
+                </span>
+            </form>
+            <form style="display:inline;" asp-action="CheckoutWalkup">
+                <span asp-validation-summary="All" class="text-danger"></span>
+                <span class="form-group">
+                    <input type="submit" value="Walkup" class="btn btn-primary" />
+                </span>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
