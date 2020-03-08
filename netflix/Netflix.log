@@ -1,0 +1,95 @@
+commit aa067b66fb71ff8967d3ac2e71868d4fd0bd0b5f
+Author: David Gu <donghyon.gu@utexas.edu>
+Date:   Thu Feb 28 18:10:52 2019 -0600
+
+    cleaned up files
+
+commit 4a51e3aa16ef63de6daa3e7364ed180b7fbf868b
+Author: David Gu <donghyon.gu@utexas.edu>
+Date:   Thu Feb 28 13:35:30 2019 -0600
+
+    fixed unit testing to match with algorithm
+
+commit 9a4a30839096c5fc87d06bbf4f5f30d9b861bfc9
+Author: David Gu <donghyon.gu@utexas.edu>
+Date:   Thu Feb 28 13:20:51 2019 -0600
+
+    modified algorithm
+
+commit b4bb7f1f243ed2d84f15599b76d127380ca5a675
+Author: In Ho Kim <inhokim@cs.utexas.edu>
+Date:   Thu Feb 28 12:45:35 2019 -0600
+
+    Made unit test fixes
+
+commit a750302fb7208b6a45d5da76221f4b6302e2370e
+Author: In Ho Kim <inhokim@cs.utexas.edu>
+Date:   Thu Feb 28 11:37:02 2019 -0600
+
+    Office hour attempt to fix problem
+
+commit c63c9fa0713107c191a53174903f6f316e1dfd88
+Author: David Gu <donghyon.gu@utexas.edu>
+Date:   Thu Feb 28 01:48:39 2019 -0600
+
+    pushing acceptance tests
+
+commit 68f622581d3f6163bd26043a7350b3cc26c22e96
+Author: David Gu <donghyon.gu@utexas.edu>
+Date:   Thu Feb 28 01:40:04 2019 -0600
+
+    updated netflix_eval algorithm
+
+commit 0fd331ed387644c41dfc56e291e2b184a1412946
+Author: David Gu <donghyon.gu@utexas.edu>
+Date:   Thu Feb 28 01:14:01 2019 -0600
+
+    didn't clean make test
+
+commit addec5cb149d6f067f30957771cfbcf1a530d9d4
+Author: David Gu <donghyon.gu@utexas.edu>
+Date:   Thu Feb 28 01:10:24 2019 -0600
+
+    check if works on pipeline after creating a possible solution in Netflix.py
+
+commit 1bbabc6879d81f59759c5c3b4cf92be424c66a82
+Author: David Gu <donghyon.gu@utexas.edu>
+Date:   Wed Feb 27 22:48:45 2019 -0600
+
+    Algorith testing 1
+
+commit e2ecd7a5ab0b7c6b156bc4e961af0bbf7ec25b38
+Author: David Gu <donghyon.gu@utexas.edu>
+Date:   Wed Feb 27 22:20:57 2019 -0600
+
+    uncommented create_cache
+
+commit 708b946108dd251f5d08bbad5a8295e9482d00ff
+Author: David Gu <donghyon.gu@utexas.edu>
+Date:   Wed Feb 27 10:43:52 2019 -0600
+
+    clean unnecessary folder
+
+commit 03565eb2cf6af3dac1f64b928eb2718d12cf1592
+Author: In Ho Kim <inhokim@cs.utexas.edu>
+Date:   Wed Feb 27 10:31:00 2019 -0600
+
+    second try to commit/push
+
+commit bde5a40fbe69e05066ed939c9e4f733607da453e
+Author: Inho Kim <Inhokim@utexas.edu>
+Date:   Tue Feb 19 16:31:06 2019 -0600
+
+    confirmed success with public documents
+
+commit 221f6348f653c51eda2e85d5322ae64a3c31e13d
+Author: Inho Kim <Inhokim@utexas.edu>
+Date:   Tue Feb 19 15:37:34 2019 -0600
+
+    Added public repo files
+
+commit de4e609b04f354612e0fdfcb656335dec353f5c0
+Author: Inho Kim <Inhokim@utexas.edu>
+Date:   Tue Feb 19 15:33:22 2019 -0600
+
+    Creating master branch with first commit

@@ -1,0 +1,95 @@
+commit 06b71d322773a2dc4946e3d7f09558e4e7aa5a12
+Author: Inho Kim <Inhokim@utexas.edu>
+Date:   Thu Feb 14 19:30:09 2019 -0600
+
+    Merge Request accepted make test run
+
+commit 5d400941503a63527a0df3f422fd31f259c5ecca
+Author: Inho Kim <Inhokim@utexas.edu>
+Date:   Thu Feb 14 16:40:06 2019 -0600
+
+    Making tests a bit better
+
+commit 8f0de053b425fe3b8cb4ea2d9e2ee163a0c38851
+Author: Inho Kim <Inhokim@utexas.edu>
+Date:   Thu Feb 14 16:23:20 2019 -0600
+
+    Unimportant commit with fixing a line
+
+commit b9a8a7e06ec93864a9e52da03b93b57ed77b4a35
+Author: Inho Kim <Inhokim@utexas.edu>
+Date:   Thu Feb 14 15:43:24 2019 -0600
+
+    Added extra line because pipeline said to
+
+commit f692c8eda86f9cc540d3b80a53e759172be60003
+Author: Inho Kim <Inhokim@utexas.edu>
+Date:   Thu Feb 14 15:38:42 2019 -0600
+
+    159 lines of Acceptance Tests
+
+commit 8cb83173f920146bf96e61245e724d8338583b57
+Author: Inho Kim <Inhokim@utexas.edu>
+Date:   Thu Feb 14 15:28:17 2019 -0600
+
+    Sphere accepted SphereCollatz. Careful with tab indention.
+
+commit 64e42d458448e218602270ef4e9b0a3e649ea171
+Author: Inho Kim <Inhokim@utexas.edu>
+Date:   Thu Feb 14 14:14:06 2019 -0600
+
+    Remembered to make-test to check for any more errors
+
+commit 7cc40f349466d7a3e8a147e458c609386c7d450b
+Author: Inho Kim <Inhokim@utexas.edu>
+Date:   Thu Feb 14 14:13:27 2019 -0600
+
+    Mistype acceptance test fix
+
+commit cc11e9ef6ae2093380c3071f862fa8570da8a6f2
+Author: Inho Kim <Inhokim@utexas.edu>
+Date:   Thu Feb 14 14:11:45 2019 -0600
+
+    Fixed acceptance test in .out file
+
+commit 57304d029e1b18e39e5eaebb38311c50fbc7ad4b
+Author: Inho Kim <Inhokim@utexas.edu>
+Date:   Thu Feb 14 14:08:49 2019 -0600
+
+    Debugged Collatz and addition test cases
+
+commit bd8c9f825f5b740a42fe1b1235c1dbe4f1e86e44
+Author: Inho Kim <Inhokim@utexas.edu>
+Date:   Thu Feb 14 08:50:01 2019 -0600
+
+    Additional Unit Tests made with expect failure
+
+commit 8e84acb6754898b70fe1520e3ee68a0993ad797a
+Author: Inho Kim <Inhokim@utexas.edu>
+Date:   Thu Feb 14 07:27:59 2019 -0600
+
+    Correct test cases inputed with failure output
+
+commit 2ba3dc31df9803c3c7c7e804332401016d04ff9d
+Author: Inho Kim <Inhokim@utexas.edu>
+Date:   Wed Feb 13 18:05:48 2019 -0600
+
+    First Meaningful commit by copying public repo
+
+commit de157a672c94553c5ba336db49b2b1418d8f876d
+Author: Inho Kim <Inhokim@utexas.edu>
+Date:   Wed Feb 13 17:52:38 2019 -0600
+
+    Restart
+
+commit 34f5667f2e532f35f694aa11b7efd603ba45c917
+Author: Inho Kim <inhokim4199@hotmail.com>
+Date:   Tue Feb 12 11:36:07 2019 -0600
+
+    rename, no significance
+
+commit 2462bf84e0e2a430cb65e42b13aecde20218938b
+Author: Inho Kim <inhokim4199@hotmail.com>
+Date:   Tue Feb 12 11:26:30 2019 -0600
+
+    First commit
