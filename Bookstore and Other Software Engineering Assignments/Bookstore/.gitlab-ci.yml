@@ -1,0 +1,28 @@
+# Official framework image. Look for the different tagged releases at:
+# https://hub.docker.com/r/library/python
+image: python:3.5
+
+# Pick zero or more services to be used on all builds.
+# Only needed when using a docker container to run your tests in.
+# Check out: http://docs.gitlab.com/ce/ci/docker/using_docker_images.html#what-is-a-service
+services:
+  - postgres:10.7
+
+variables:
+  POSTGRES_DB: book_idb
+  DB_STRING: postgresql+psycopg2://postgres:5432/postgres?user=postgres&password=idb_ivhad
+  #DB_STRING: postgresql+psycopg2://postgres:idb_ivhad@/postgres?host=/cloudsql/cs329e-idb-235517:us-central1:'book-idb1'
+
+# This is a basic example for a gem or script which doesn't use
+# services such as redis or postgres
+before_script:
+    - date
+    - uname -a
+    - pip install --upgrade pip
+    - pip install -r requirements.txt
+    - printenv | sort
+
+test:
+  script:
+  - python test.py
+

@@ -1,0 +1,53 @@
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<title>About Us</title>
+		<link href="../static/bootstrap.min.css" rel="stylesheet" />
+		<link href="../static/bootstrap2.min.css" rel = "stylesheet"/>
+		<link
+			href="https://fonts.googleapis.com/css?family=Montserrat:400,700"
+			rel="stylesheet"
+			type="text/css"
+			/>
+	</head>
+	<body>
+		<nav class="navbar navbar-expand-lg bg-dark navbar-dark fixed-top">
+			<div class = "container-fluid">
+			<a class="navbar-brand" href="{{url_for('index')}}">BookPeople</a>
+			<ul class="nav navbar-nav navbar-right">
+				<li class="nav-item active">
+					<a class="nav-link" href="{{url_for('about')}}">About</a>
+				</li>
+				<li class="nav-item dropdown">
+					<a
+						class="nav-link dropdown-toggle"
+						href="#"
+						data-toggle="dropdown"
+						role="button"
+						aria-haspopup="true"
+						aria-expanded="false"
+						>Browse<span class="caret"></span></a>
+					<div class="dropdown-menu" aria-labelledby="navbarDropdown">
+						<a class="dropdown-item" href = "{{url_for('book')}}">Books</a>
+						<a class="dropdown-item" href = "{{url_for('authors')}}">Authors</a>
+						<a class="dropdown-item" href = "{{url_for('publishers')}}">Publishers</a>
+					</div>
+					<ul class="dropdown-menu" aria-labelledby="navbarDropDownMenuLink">
+						<li><a href = "{{url_for('book')}}">Books</a></li>
+						<li><a href = "{{url_for('authors')}}">Authors</a></li>
+						<li><a href = "{{url_for('publishers')}}">Publishers</a></li>
+					</ul>
+				</li>
+			</ul>
+			</div>
+		</nav>
+		
+		<h1>Test Results</h1>
+
+		{{output | safe}}
+		<br/>
+		{{report | safe}}
+		
+	</body>
+</html>

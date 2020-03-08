@@ -1,0 +1,17 @@
+<<<<<<< HEAD
+    12	Arshiya Sabzevari
+    24	Dong Hyon Gu
+     4	Inho Kim
+     1	Victor Chen
+    11	hanrw968
+    25	vcchenl4
+77
+=======
+    15	Arshiya Sabzevari
+    24	Dong Hyon Gu
+     8	Inho Kim
+     1	Victor Chen
+    15	hanrw968
+    28	vcchenl4
+91
+>>>>>>> 39bbc6fc3e6575a17a5707bd5984274034fd4dc3

@@ -1,0 +1,621 @@
+<<<<<<< HEAD
+=======
+commit 762eb80ebb0e19c0afd2b1c69a098e3148603036
+Merge: 940053e 03bc298
+Author: hanrw968 <hannahw88@utexas.edu>
+Date:   Sun Mar 24 20:50:11 2019 -0500
+
+    Merge branch 'master' of https://gitlab.com/inhokim/cs329e-idb
+
+commit 940053e6553e747c428495a86d0b17b0eb923658
+Author: hanrw968 <hannahw88@utexas.edu>
+Date:   Sun Mar 24 20:48:54 2019 -0500
+
+    Finished positioning elements on the about page
+
+commit cc5dd4f56374e37ee0765a35f56d0f3fea50e4c0
+Author: hanrw968 <hannahw88@utexas.edu>
+Date:   Sun Mar 24 20:40:39 2019 -0500
+
+    Positioned David's stuff on the about page
+
+commit c945b103101ddaf0c7f19d489719cb61df38bd4b
+Author: hanrw968 <hannahw88@utexas.edu>
+Date:   Sun Mar 24 20:36:57 2019 -0500
+
+    Positioned Inho's stuff on the about page
+
+commit 03bc29895606ebd4b30a486d01e59428a31771da
+Author: vcchenl4 <vcchenl4@gmail.com>
+Date:   Sun Mar 24 20:21:13 2019 -0500
+
+    fixed an issue were the links stopped working
+
+commit 2027bdeae746522c67b4efc8ae4714d5ad2cfdb8
+Merge: 5aae84d ba737dd
+Author: vcchenl4 <vcchenl4@gmail.com>
+Date:   Sun Mar 24 20:12:15 2019 -0500
+
+    Merge branch 'frontend1' of https://gitlab.com/inhokim/cs329e-idb
+
+commit b59ceffe342b8ce659a74bb1538e3c7d4dfc5167
+Merge: ba737dd 5aae84d
+Author: hanrw968 <hannahw88@utexas.edu>
+Date:   Sun Mar 24 20:07:39 2019 -0500
+
+    Merge branch 'master' of https://gitlab.com/inhokim/cs329e-idb
+
+commit ba737ddc196af2b63d88efb9cf40fb927a331b73
+Author: hanrw968 <hannahw88@utexas.edu>
+Date:   Sun Mar 24 20:06:22 2019 -0500
+
+    Fixed the intro on the about page
+
+commit 5aae84d741ffc1dec0ecc80a3e787c137d9607e3
+Merge: 98e5fbb cbfeebe
+Author: vcchenl4 <vcchenl4@gmail.com>
+Date:   Sun Mar 24 19:43:12 2019 -0500
+
+    Merge branch 'frontend1'
+
+commit 98e5fbbc48aca1983fe4d6f0794a39225c373825
+Merge: e1026d7 26b6b68
+Author: vcchenl4 <vcchenl4@gmail.com>
+Date:   Sun Mar 24 19:40:43 2019 -0500
+
+    Merge branch 'master' of https://gitlab.com/inhokim/cs329e-idb
+
+commit 26b6b687ec092a919e398e4dfb92a9774de8b340
+Merge: fb31474 6ef4466
+Author: Inho Kim <Inhokim@utexas.edu>
+Date:   Sun Mar 24 18:34:10 2019 -0500
+
+    merging dev to master
+
+commit fb93bbe0554a15931af8665d54f1e032edd84683
+Author: Inho Kim <Inhokim@utexas.edu>
+Date:   Sun Mar 24 18:10:21 2019 -0500
+
+    Design extremely minor
+
+commit bc2fab6539813715d4c8b6b084399ea8c8f2a172
+Author: Inho Kim <Inhokim@utexas.edu>
+Date:   Sun Mar 24 17:25:52 2019 -0500
+
+    Fixed about page errors
+
+commit 708a6d7ce98f4de42682fbaa539bfea334e18004
+Author: Inho Kim <Inhokim@utexas.edu>
+Date:   Sun Mar 24 17:11:59 2019 -0500
+
+    Fixes to format in the about page. Overbloated title and div error bugs
+
+>>>>>>> 39bbc6fc3e6575a17a5707bd5984274034fd4dc3
+commit 499a1da12c8fa9110d1ee7562132b5ba7503c727
+Author: Dong Hyon Gu <donghyon.gu@utexas.edu>
+Date:   Sun Mar 24 16:23:46 2019 -0500
+
+    added Inho's information
+
+commit aa38ba2fa1af74cd17c251072427e39fd3b665b9
+Author: Dong Hyon Gu <donghyon.gu@utexas.edu>
+Date:   Sun Mar 24 16:15:43 2019 -0500
+
+    actually added the images for the carousel
+
+commit cf0674a2170977d8f6045971f42648cc6b03a929
+Author: Dong Hyon Gu <donghyon.gu@utexas.edu>
+Date:   Sun Mar 24 16:10:37 2019 -0500
+
+    added carousel pics and edited about.html
+
+commit 8768c92dd66cb4397e16dfdb7b34cb483f1fff0f
+Author: Dong Hyon Gu <donghyon.gu@utexas.edu>
+Date:   Sun Mar 24 15:53:20 2019 -0500
+
+    added a basic carousel to the splash page
+
+<<<<<<< HEAD
+=======
+commit 6ef4466d03d5056c22ed2177787f512bfc2621dd
+Author: Arshiya Sabzevari <arshiya.sabzevari@yahoo.com>
+Date:   Sun Mar 24 14:48:24 2019 -0500
+
+    fixed formatting of links
+
+>>>>>>> 39bbc6fc3e6575a17a5707bd5984274034fd4dc3
+commit 1a9960c6c055a494fda3af750f849b479e3f3a6e
+Author: Dong Hyon Gu <donghyon.gu@utexas.edu>
+Date:   Sun Mar 24 14:47:35 2019 -0500
+
+    added navbar to rec, updated linking for database
+
+<<<<<<< HEAD
+=======
+commit e072e4df9995eb51dad5bda92602f16cc5beb93e
+Author: Arshiya Sabzevari <arshiya.sabzevari@yahoo.com>
+Date:   Sun Mar 24 14:44:54 2019 -0500
+
+    made working links for more info in authors/update about
+
+commit fc1d4e6d40b17b0751b09f565ae05c1d90488831
+Author: Arshiya Sabzevari <arshiya.sabzevari@yahoo.com>
+Date:   Sun Mar 24 14:15:42 2019 -0500
+
+    added pictures to authors, books, publishers
+
+>>>>>>> 39bbc6fc3e6575a17a5707bd5984274034fd4dc3
+commit 7a379685311ac9d7fbe2a15bfb6c467c53b88bd5
+Author: Dong Hyon Gu <donghyon.gu@utexas.edu>
+Date:   Sun Mar 24 13:40:42 2019 -0500
+
+    edited David's about page
+
+commit dd1fdbb67d4f3594faa15f2e2b26f0b6326114f1
+Author: Dong Hyon Gu <donghyon.gu@utexas.edu>
+Date:   Sun Mar 24 13:11:26 2019 -0500
+
+    Revert "Merge branch 'master' into frontend1"
+    
+    This reverts commit d91a1585b543fe818c1badaecfdaa2c3bdb760d6, reversing
+    changes made to cbfeebe8f79f8d3ac923f370134a533521ec8c82.
+
+commit d91a1585b543fe818c1badaecfdaa2c3bdb760d6
+Merge: cbfeebe fb31474
+Author: Dong Hyon Gu <donghyon.gu@utexas.edu>
+Date:   Sun Mar 24 13:03:12 2019 -0500
+
+    Merge branch 'master' into frontend1
+
+commit cbfeebe8f79f8d3ac923f370134a533521ec8c82
+Author: hanrw968 <hannahw88@utexas.edu>
+Date:   Sun Mar 24 00:28:16 2019 -0500
+
+    Added my (Hannah's) picture and description
+
+<<<<<<< HEAD
+=======
+commit e1026d7208e618c7c45f1e22fa1e0fd897b47232
+Merge: fb31474 1315341
+Author: vcchenl4 <vcchenl4@gmail.com>
+Date:   Sun Mar 24 00:26:24 2019 -0500
+
+    Merge branch 'frontend1' of https://gitlab.com/inhokim/cs329e-idb
+
+>>>>>>> 39bbc6fc3e6575a17a5707bd5984274034fd4dc3
+commit 1315341bba968e3897f999c20ced2cb7d05a5f0e
+Author: hanrw968 <hannahw88@utexas.edu>
+Date:   Sat Mar 23 23:51:23 2019 -0500
+
+    Fixed the secondary nav bar
+
+commit fb31474a025dab8c6be58a5c39306c8e85e67bf4
+Merge: 656e523 258ae25
+Author: vcchenl4 <vcchenl4@gmail.com>
+Date:   Sat Mar 23 21:37:42 2019 -0500
+
+    Merge branch 'dev'
+
+commit 258ae2542ac0405cefe7f2b57600151624e5082e
+Author: vcchenl4 <vcchenl4@gmail.com>
+Date:   Sat Mar 23 21:37:18 2019 -0500
+
+    resolved some small errors on publisher_rec
+
+commit cfdace1f00c0244f9ba115ef1ff0836b1d00f1f3
+Merge: 68f7891 f657402
+Author: vcchenl4 <vcchenl4@gmail.com>
+Date:   Sat Mar 23 21:34:21 2019 -0500
+
+    resolving an error
+
+commit 43d6bb4e8c2f3af3dde98483c43835e5eb32e972
+Author: Victor Chen <vcchenl4@gmail.com>
+Date:   Sun Mar 24 02:24:51 2019 +0000
+
+    Deleted Pycache
+
+commit 68f78911788af418c5869a878180e7d1f4ba6b2a
+Merge: 129d614 05bd4dc
+Author: vcchenl4 <vcchenl4@gmail.com>
+Date:   Sat Mar 23 21:23:45 2019 -0500
+
+    Merge branch 'dev' of https://gitlab.com/inhokim/cs329e-idb into dev
+
+commit 129d614ce62a2045c93c49da032aaab921b9bd3d
+Author: vcchenl4 <vcchenl4@gmail.com>
+Date:   Sat Mar 23 21:23:28 2019 -0500
+
+    added internal links to author_rec and updated data_static for easy linking
+
+commit 05bd4dc19858405a5e2d3ff258db33dc414cee57
+Author: Arshiya Sabzevari <arshiya.sabzevari@yahoo.com>
+Date:   Sat Mar 23 20:49:32 2019 -0500
+
+    adding author/book links to publishers
+
+commit f6574027c0fe0f9dd9346eb42ad2aa99e203e0ff
+Author: Arshiya Sabzevari <arshiya.sabzevari@yahoo.com>
+Date:   Sat Mar 23 20:36:15 2019 -0500
+
+    filling in about page
+
+commit 4b0afd3e74a9bd3f702fee1e75dc3e6bca976dfc
+Author: vcchenl4 <vcchenl4@gmail.com>
+Date:   Sat Mar 23 20:31:50 2019 -0500
+
+    repopulated book.html and added bootstrap elements to the records pages
+
+commit 1abde7bf1f080e9f0bbcc06bc8240930d7020f59
+Merge: 319f776 777c395
+Author: Arshiya Sabzevari <arshiya.sabzevari@yahoo.com>
+Date:   Sat Mar 23 20:11:37 2019 -0500
+
+    Merge branch 'dev' of https://gitlab.com/inhokim/cs329e-idb into dev
+    
+    "merging to dev"
+
+commit 319f776d2438540ac56776e941258b28da5bb97b
+Merge: 0b72761 d6835b1
+Author: Arshiya Sabzevari <arshiya.sabzevari@yahoo.com>
+Date:   Sat Mar 23 20:11:19 2019 -0500
+
+    merging
+
+commit 777c395879fccb5fb2594baedcd3ac93a9a50d8a
+Author: vcchenl4 <vcchenl4@gmail.com>
+Date:   Sat Mar 23 20:09:24 2019 -0500
+
+    made sure all links work properly[please check to make sure]
+
+commit 0b72761104ba84afef44806594512539cc2b93bd
+Author: Arshiya Sabzevari <arshiya.sabzevari@yahoo.com>
+Date:   Sat Mar 23 20:02:20 2019 -0500
+
+    merging
+
+commit 656e523d901b4c3d9c6c492abe85bb07612eefb9
+Author: vcchenl4 <vcchenl4@gmail.com>
+Date:   Sat Mar 23 19:39:57 2019 -0500
+
+    deleted the _pycache_ folder[will still be generated but is on gitignore]
+
+commit 0f42965936bf86ddfff04647e1a497bf23bb01fc
+Author: vcchenl4 <vcchenl4@gmail.com>
+Date:   Sat Mar 23 15:37:57 2019 -0500
+
+    added in my relevent information
+
+commit d6835b1091cee0264b30bfc529c62817a8b49848
+Author: vcchenl4 <vcchenl4@gmail.com>
+Date:   Sat Mar 23 15:32:08 2019 -0500
+
+    added relevent links to author and publisher in book-rec
+
+commit be30d6c5cc26359fb22568195d93fc53772a5146
+Merge: 9864a56 76c5abd
+Author: vcchenl4 <vcchenl4@gmail.com>
+Date:   Sat Mar 23 15:19:10 2019 -0500
+
+    Merge branch 'frontend1' of https://gitlab.com/inhokim/cs329e-idb into dev
+
+commit 76c5abd7f6151dd873825d28a727daf5f2b2de2a
+Author: hanrw968 <hannahw88@utexas.edu>
+Date:   Sat Mar 23 01:22:06 2019 -0500
+
+    Another update on the about page
+
+commit 33550dda26d4b96c8f5c9c06ab67122a06f895f9
+Author: hanrw968 <hannahw88@utexas.edu>
+Date:   Sat Mar 23 00:59:04 2019 -0500
+
+    An update on what the about page currently looks like
+
+commit c4db2546a3d6fe52e4f4d70aac098b17440a7877
+Merge: 6389ebe 9d0b294
+Author: hanrw968 <hannahw88@utexas.edu>
+Date:   Sat Mar 23 00:58:36 2019 -0500
+
+    Merge branch 'frontend1' of https://gitlab.com/inhokim/cs329e-idb into frontend1
+
+commit 6389ebed5f24e4569a4d32e271a85d89e0b5d063
+Author: hanrw968 <hannahw88@utexas.edu>
+Date:   Sat Mar 23 00:57:53 2019 -0500
+
+    An update on what the about page currently looks like
+
+commit 9864a562cce0eb386847fd029787578a2b52b0a6
+Merge: 057c8f5 9d0b294
+Author: vcchenl4 <vcchenl4@gmail.com>
+Date:   Fri Mar 22 17:38:42 2019 -0500
+
+    Merge branch 'frontend1' of https://gitlab.com/inhokim/cs329e-idb into dev
+
+commit 9d0b294492bc2576a268c7e978d442f604de21fc
+Author: Dong Hyon Gu <donghyon.gu@utexas.edu>
+Date:   Fri Mar 22 13:00:57 2019 -0500
+
+    added Inho's pic
+
+commit 4e6071a099e31ca0c8a11207fb6fcebe1363be13
+Author: hanrw968 <hannahw88@utexas.edu>
+Date:   Fri Mar 22 11:41:20 2019 -0500
+
+    Added another css sheet for the purpose of designing the about page; also began designing the about page
+
+commit 057c8f55d7a344c19b9f6774b05ffc8b8bd60dc1
+Merge: 48bad33 ffc3227
+Author: Dong Hyon Gu <donghyon.gu@utexas.edu>
+Date:   Fri Mar 22 07:18:00 2019 +0000
+
+    Merge branch 'frontend1' into 'master'
+    
+    Frontend1
+    
+    See merge request inhokim/cs329e-idb!1
+
+commit ffc3227d8d32fa021b224be32d89f09c4f06043b
+Merge: a3bd125 48bad33
+Author: Dong Hyon Gu <donghyon.gu@utexas.edu>
+Date:   Fri Mar 22 07:17:34 2019 +0000
+
+    Merge branch 'master' into 'frontend1'
+    
+    # Conflicts:
+    #   templates/authors.html
+    #   templates/publishers.html
+    #   templates/splash.html
+
+commit a3bd125d0740e16294b52da73c6331e6db646252
+Author: Dong Hyon Gu <donghyon.gu@utexas.edu>
+Date:   Fri Mar 22 02:08:48 2019 -0500
+
+    added david_pic
+
+commit 48bad337e89fde81f06f3bf6ef82ce6e6eea78c4
+Merge: 6554fa3 9b002e8
+Author: Inho Kim <Inhokim@utexas.edu>
+Date:   Thu Mar 21 13:42:27 2019 -0500
+
+    Merge branch 'dev' of https://gitlab.com/inhokim/cs329e-idb into dev
+    
+    merge message required when git pull, don't know why. Updating author
+    page
+
+commit 6554fa35fb63a4d8666da440c7b5d78ba1f4ffda
+Author: Inho Kim <Inhokim@utexas.edu>
+Date:   Thu Mar 21 13:42:04 2019 -0500
+
+    Finished up author page
+
+commit 9b002e8b129002a2abbe89ffa2cc607ab1348cc7
+Author: vcchenl4 <vcchenl4@gmail.com>
+Date:   Thu Mar 21 13:39:56 2019 -0500
+
+    changed publishers to match books, and updated data_static
+
+commit 023c4c21e02132c2bb8f4f91fff04e4923fa71e4
+Author: Arshiya Sabzevari <arshiya.sabzevari@yahoo.com>
+Date:   Thu Mar 21 13:16:48 2019 -0500
+
+    added my pic
+
+commit 13a5084b5a4087460d9bb5ed909c4a3340d9ef3c
+Author: vcchenl4 <vcchenl4@gmail.com>
+Date:   Thu Mar 21 11:38:36 2019 -0500
+
+    updated .gitignore to include pycache, and updated makefile to make stats easier to read
+
+commit 655f69c690b0ecb665df017dc53a59915edafbb9
+Merge: 522993a be441aa
+Author: vcchenl4 <vcchenl4@gmail.com>
+Date:   Thu Mar 21 11:15:59 2019 -0500
+
+    Merge branch 'frontend1' of https://gitlab.com/inhokim/cs329e-idb into frontend1
+
+commit 522993a4aadc9843dd3fb9627bdc4edc7409e3b5
+Author: vcchenl4 <vcchenl4@gmail.com>
+Date:   Thu Mar 21 11:15:39 2019 -0500
+
+    added my picture
+
+commit a3387c7aa4809a9deca11418219442889399d625
+Merge: c7e4096 e3ac516
+Author: vcchenl4 <vcchenl4@gmail.com>
+Date:   Thu Mar 21 11:13:00 2019 -0500
+
+    Merge branch 'dev' of https://gitlab.com/inhokim/cs329e-idb into dev
+
+commit c7e4096cbfb9269aea91ff1ce96a8ad547c72998
+Author: vcchenl4 <vcchenl4@gmail.com>
+Date:   Thu Mar 21 11:12:31 2019 -0500
+
+    added some attributes i forgot and made it more readable
+
+commit e3ac516688fb71f48ef3b8d92535597861b4d727
+Author: Inho Kim <Inhokim@utexas.edu>
+Date:   Thu Mar 21 11:03:09 2019 -0500
+
+    Template for author and author_rec
+
+commit 1ebe6fab5375a81d994462e910690743954929f5
+Author: Arshiya Sabzevari <arshiya.sabzevari@yahoo.com>
+Date:   Tue Mar 19 19:32:08 2019 -0500
+
+    added dependencies to publishers
+
+commit be441aaf5bed82e01510c44d37177b23685b69b0
+Author: hanrw968 <hannahw88@utexas.edu>
+Date:   Tue Mar 19 18:50:34 2019 -0500
+
+    Added links to the splash page, as well as some miscelaneous animations
+
+commit 17f26577e19d5f36f46173e5b1fe4c2fac049a5a
+Author: hanrw968 <hannahw88@utexas.edu>
+Date:   Tue Mar 19 18:36:23 2019 -0500
+
+    Addjusted the navigation positioning
+
+commit a7ae2e6a25dba8e3d34fd90acb299cc194d43fe9
+Author: hanrw968 <hannahw88@utexas.edu>
+Date:   Tue Mar 19 18:06:31 2019 -0500
+
+    Adjusted some of the positioning
+
+commit 3b427a19f4424703c7d4e86d6c4df469062c4d72
+Author: Dong Hyon Gu <donghyon.gu@utexas.edu>
+Date:   Tue Mar 19 16:20:56 2019 -0500
+
+    Applied bootstrap to the rest of the pages
+
+commit a42fa55953764b3193f5e7afe39647d2f3e6ec9d
+Author: Arshiya Sabzevari <arshiya.sabzevari@yahoo.com>
+Date:   Tue Mar 19 16:19:35 2019 -0500
+
+    created pub data & updated templates
+
+commit 43cc2caf5a3622479099b8dd93c171a01b204efb
+Author: vcchenl4 <vcchenl4@gmail.com>
+Date:   Tue Mar 19 15:08:09 2019 -0500
+
+    added makefile to streamline stats.txt and commit log, also debugged publisher.html
+
+commit 6824fe90066fd436fc6d56dc1c3c1734b9e54fb3
+Author: Dong Hyon Gu <donghyon.gu@utexas.edu>
+Date:   Tue Mar 19 15:01:44 2019 -0500
+
+    css styling and more info in splash.html
+
+commit 9b4ee829f4a8568e3c244aec6696cc41f557ba09
+Author: Arshiya Sabzevari <arshiya.sabzevari@yahoo.com>
+Date:   Tue Mar 19 14:56:29 2019 -0500
+
+    edited publishers
+
+commit b35e36edf86d990a8a946ef32178ae9c4bb771bd
+Author: Dong Hyon Gu <donghyon.gu@utexas.edu>
+Date:   Tue Mar 19 14:23:51 2019 -0500
+
+    moved the bootstrap files
+
+commit 564872f8bf6eee2b1d29bfed007d83479d288339
+Author: vcchenl4 <vcchenl4@gmail.com>
+Date:   Tue Mar 19 14:19:11 2019 -0500
+
+    populated the indvidual book records and included static data source
+
+commit 43d587378c9cdb517e96f3a1400d5fc9ef442b4d
+Author: Dong Hyon Gu <donghyon.gu@utexas.edu>
+Date:   Tue Mar 19 14:12:03 2019 -0500
+
+    moved css and js files to static and changed paths
+
+commit f77cf48e8ff6e37a7d9a9b963d951fcafc4ed2c3
+Author: Arshiya Sabzevari <arshiya.sabzevari@yahoo.com>
+Date:   Tue Mar 19 14:09:38 2019 -0500
+
+    added publishers record
+
+commit c04934e07575f81b6a038259ea69fbc5e26625db
+Merge: 983b9cc e921392
+Author: Dong Hyon Gu <donghyon.gu@utexas.edu>
+Date:   Tue Mar 19 14:07:06 2019 -0500
+
+    Merge branch 'frontend1' of https://gitlab.com/inhokim/cs329e-idb into frontend1
+
+commit 983b9ccd4c87e3a5756b04821baecfc1e4f83ea6
+Author: Dong Hyon Gu <donghyon.gu@utexas.edu>
+Date:   Tue Mar 19 13:58:21 2019 -0500
+
+    made the dropdown menu cleaner
+
+commit 4880548aed3f3baec46a6e906bd4c421591be175
+Author: Dong Hyon Gu <donghyon.gu@utexas.edu>
+Date:   Tue Mar 19 13:20:48 2019 -0500
+
+    edit the navbar to be in proper format in splash.html
+
+commit ac8eabab77e72e52694448856890fd9fcb5a9e66
+Author: Dong Hyon Gu <donghyon.gu@utexas.edu>
+Date:   Tue Mar 19 12:34:19 2019 -0500
+
+    local bootstrap and jquery files
+
+commit 969d7c9440fea99405f52f2acc5b08a3d9ff0c8d
+Author: Dong Hyon Gu <donghyon.gu@utexas.edu>
+Date:   Tue Mar 19 05:33:13 2019 -0500
+
+    added bootstrap and jquery files. Also modified splash page.
+
+commit e9213923631fb6baa39bc893e921c04e0d98f20c
+Author: Dong Hyon Gu <donghyon.gu@utexas.edu>
+Date:   Tue Mar 19 13:20:48 2019 -0500
+
+    edit the navbar to be in proper format in splash.html
+
+commit abb7b97d9f37bad5d7b5aff55014d297c3b16a3d
+Author: vcchenl4 <vcchenl4@gmail.com>
+Date:   Tue Mar 19 13:08:56 2019 -0500
+
+    created the book intermediate page and started the individual book pages
+
+commit 1c916e13ff607d4568910ce7de1a3d90c8a47247
+Author: Inho Kim <Inhokim@utexas.edu>
+Date:   Tue Mar 19 12:54:21 2019 -0500
+
+    Static folder
+
+commit 6ea44efe0e8b5653092c4885e68c9c57e0ab78cc
+Author: Dong Hyon Gu <donghyon.gu@utexas.edu>
+Date:   Tue Mar 19 12:34:19 2019 -0500
+
+    local bootstrap and jquery files
+
+commit 3a17596c5bb69b1984eda62d067d7fd1880294d3
+Author: Dong Hyon Gu <donghyon.gu@utexas.edu>
+Date:   Tue Mar 19 05:33:13 2019 -0500
+
+    added bootstrap and jquery files. Also modified splash page.
+
+commit 7839fe8a6cf88ac3e01395eea1084c646e64144a
+Author: vcchenl4 <vcchenl4@gmail.com>
+Date:   Mon Mar 18 21:29:25 2019 -0500
+
+    Created the skeleton for about.html and populated the log file
+
+commit 270797b89c54931e96a8f7e4204de356a423fa9b
+Author: hanrw968 <hannahw88@utexas.edu>
+Date:   Mon Mar 18 21:21:40 2019 -0500
+
+    Added a authors.html page and a publishers.hml page
+
+commit 3b2442f8867d69497f387d82cc7d61de1001242d
+Author: vcchenl4 <vcchenl4@gmail.com>
+Date:   Sat Mar 16 17:59:34 2019 -0500
+
+    testing dev branch
+
+commit 2dfedb8e33f898514451852a71c5eb34812c7817
+Merge: a1e467f 466cce6
+Author: vcchenl4 <vcchenl4@gmail.com>
+Date:   Sat Mar 16 17:52:35 2019 -0500
+
+    Merge branch 'dev' of https://gitlab.com/inhokim/cs329e-idb into dev
+
+commit a1e467f5bf813cff7792db8ae6989fe16065fff7
+Author: vcchenl4 <vcchenl4@gmail.com>
+Date:   Sat Mar 16 17:49:12 2019 -0500
+
+    created an unpopulated book template and a splash page that is able to pass variables to the template
+
+commit 466cce6efba25fcc1832c6ec2aea21ab96802042
+Author: Arshiya Sabzevari <arshiya.sabzevari@yahoo.com>
+Date:   Thu Mar 14 19:32:54 2019 -0500
+
+    added static
+
+commit 4fdbc1a092434b52247c44f2783cbcdc96148af6
+Author: Arshiya Sabzevari <arshiya.sabzevari@yahoo.com>
+Date:   Thu Mar 14 19:25:10 2019 -0500
+
+    inital commit

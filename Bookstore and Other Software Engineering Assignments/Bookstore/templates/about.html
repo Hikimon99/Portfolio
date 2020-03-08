@@ -1,0 +1,134 @@
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<title>About Us</title>
+		<link href="../static/bootstrap.min.css" rel="stylesheet" />
+		<link href="../static/bootstrap2.min.css" rel = "stylesheet"/>
+		<link
+			href="https://fonts.googleapis.com/css?family=Montserrat:400,700"
+			rel="stylesheet"
+			type="text/css"
+			/>
+	</head>
+	<body>
+		<nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+			<div class = "container-fluid">
+			<a class="navbar-brand" href="{{url_for('index')}}">BookPeople</a>
+			<ul class="nav navbar-nav navbar-right">
+				<li class="nav-item active">
+					<a class="nav-link" href="{{url_for('book')}}">Books</a>
+				</li>
+				<li class="nav-item active">
+					<a class="nav-link" href="{{url_for('authors')}}">Authors</a>
+				</li>
+				<li class="nav-item active">
+					<a class="nav-link" href="{{url_for('publishers')}}">Publishers</a>
+				</li>
+				<li class="nav-item active">
+					<a class="nav-link" href="{{url_for('about')}}">About</a>
+				</li>
+				<li>
+					<form class = "form-inline" action = "/search" method="get">
+						<div class="md-form mt-0">
+							<input class="form-control" type = "text" placeholder = "Search..." aria-label="Search" name="query">
+							<input type = "submit" hidden>
+						</div>
+					</form>
+				</li>
+			</ul>
+			</div>
+		</nav>
+		<div data-spy = "scroll" data-target= ".navbar">
+			<nav class="navbar navbar-expand-lg navbar-inverse navbar-fixed-top">
+				<div class = "container-fluid">
+				<ul id = "secondnav" class="nav navbar-nav">
+					
+					<div id = "secondnav" class = "row">
+    					<div class = "col"><li><a href="#InhoKim">Inho Kim</a></li></div>
+    					<div class = "col"><li><a href = "#DavidGu">David Gu</a></li></div>
+    					<div class = "col"><li><a href = "#VictorChen">Victor Chen</a></li></div>
+    					<div class = "col"><li><a href = "#ArshiyaS">Arshiya Sabzevari</a></li></div>
+    					<div class = "col"><li><a href = "#HannahW">Hannah Warren</a></li></div>
+    				</div>
+    			</ul>
+    		</div>
+			</nav>
+			<div id = "intro" class = "d-flex align-items-center justify-content-center">
+				<h1 id = "thisintro">Meet our team!</h1>
+			</div>
+
+
+			<div id="InhoKim" class = "containerfluid">
+  				<h1 id = "Inhoname">In Ho Kim</h1>
+  				<img id = "ipic" src = "../static/image/inho_pic.jpg" alt = "Picure of Inho Kim" width = 20% height = auto/>
+  				<div id = "iDescript">
+				<p>Second year MIS major that likes food but occasionally skips meals.</p>
+				<p>Main responsibility = back-end</p>
+				<p>Number of Commits = 16</p>
+				<p>Number of Issues = 0</p>
+				<p>Number of Unit tests = 0</p></div>
+			</div>
+			<div id = "DavidGu" class = "containerfluid">
+				<h1 id = "Davidname">David Gu</h1>
+				<img id = "dpic" src = "../static/image/david_pic.jpg" alt = "Picure of David Gu" width = 25% height = auto/>
+				<div id = "dDescript">
+				<p>Fourth-year Biochemistry Major with a passion</p> 
+				<p>for computers and German.</p>
+				<p>Main responsibility = front-end</p>
+				<p>Number of Commits = 24</p>
+				<p>Number of Issues = 0</p>
+				<p>Number of Unit tests = 0</p></div>
+			</div>
+			<div id = "VictorChen" class = "containerfluid">
+				<h1 id = "Victorname">Victor Chen</h1>
+				<img id = "vpic" src = "../static/image/vic_pic.jpg" alt = "Picure of Victor Chen" width = 20% height = auto/>
+				<div id = "vDescript">
+				<p>A fourth year computational biology student who</p>
+				<p>like computers and cats [catputers].</p>
+				<p>Main responsibility = back-end</p>
+				<p>Number of Commits = 29</p>
+				<p>Number of Issues = 8</p>
+				<p>Number of Unit tests = 0</p></div>
+			</div>
+			<div id = "ArshiyaS" class = "containerfluid">
+				<h1 id = "Arshiyaname">Arshiya Sabzevari</h1>
+				<img id = "apic" src = "../static/image/arsh_pic.jpg" alt = "Picure of Arshiya Sabzevari" width = 20% height = auto/>
+				<div id = "aDescript">
+				<p>A third year economics student with no free time.</p>
+				<p>Main Responsibility = back-end</p>
+				<p>Number of Commits = 42</p>
+				<p>Number of Issues = 10</p>
+				<p>Number of Unit tests = 0</p></div>
+				
+			</div>
+			<div id = "HannahW" class = "containerfluid">
+				<h1 id = "Hannahname">Hannah Warren</h1>
+				<img id = "hpic" src = "../static/image/hannah_pic.jpg" alt = "Picure of Hannah Warren" width = 20% height = auto/>
+				<div id = "hDescript">
+					<p>Fourth year math major who just can't figure out how to</p>
+					<p>vertically center text to save her life.<p/>
+					<p>Main responsibility: front-end <p/>
+					<p>Number of Commits: 17 <p/>
+					<p>Number of Issues: 4<p/>
+					<p>Number of Unit Tests: 0</p>
+				</div>
+			</div>
+		</div>
+		<div>
+		<h2>Team Stats:</h2>
+		<ul>
+			<li>Total Commits = 91</li>
+			<li>Total Issues = 13</li>
+			<li>Total Unit Tests = 0</li>
+			</br>
+			<li><a href = "https://gitlab.com/inhokim/cs329e-idb/issues">Issue Tracker Link</a></li>
+			<li><a href = "https://gitlab.com/inhokim/cs329e-idb">Repo Link</a></li>
+			<li><a href = "https://gitlab.com/inhokim/cs329e-idb/wikis/Technical-Report">Technical Report and Wiki</a></li>
+			<li><a href = "{{url_for('test')}}">Unit Test Results</a></li>
+		</ul>
+		</div>
+		<script src="../static/jquery.slim.min.js"></script>
+		<script src="../static/bootstrap.min.js"></script>
+	</body>
+</html>
